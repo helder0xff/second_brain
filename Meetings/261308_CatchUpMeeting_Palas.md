@@ -1,0 +1,7 @@
+- ~~Sacar AoP ... para Gio
+- Sacar una foto con el rotor grande para ver que está centrado, entonces mecanizar antes del lunes.
+- Idea [[nSLAM]] Ir guardando la matriz de inicialización en diferentes puntos del vuelo (inicialización de SLAM)
+- [[Dual Camera System IMU Calibration]] Calibrar cámaras en IMU, con los patrones de calibración de eventos
+- [[Experiments]]
+	- Movimientos de rótula independientes
+	- propioGPS RTK si se incluye

@@ -1,0 +1,370 @@
+{
+  "main": {
+    "id": "47944412cc44d52d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f961e9bf67ea18e",
+        "type": "tabs",
+        "dimension": 49.96456413890857,
+        "children": [
+          {
+            "id": "adf398b543d911f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyectos/Aegentic_Programming/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a57b7fe60a0c1e3a",
+        "type": "tabs",
+        "dimension": 50.03543586109143,
+        "children": [
+          {
+            "id": "d7e5fc59f8c46101",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Minuta.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Minuta"
+            }
+          },
+          {
+            "id": "658a837fa21ad39a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules/FSM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FSM"
+            }
+          },
+          {
+            "id": "74aa418a7b768880",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules/nSLAM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nSLAM"
+            }
+          },
+          {
+            "id": "57dd0d31060bb830",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meetings/_draft_meetings.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_draft_meetings"
+            }
+          },
+          {
+            "id": "4a89d342a34fe39f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules/nSLAM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nSLAM"
+            }
+          },
+          {
+            "id": "58286906efabfcf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modules/FSM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FSM"
+            }
+          },
+          {
+            "id": "2246aa62470a6682",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personas/Gio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gio"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8462e9d99543ae63",
+    "type": "split",
+    "children": [
+      {
+        "id": "1399224a7691cede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a618faa5146ea69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b77cae9265c4a70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ab678bc345bddcb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 265.5
+  },
+  "right": {
+    "id": "e58a5efec006a7f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d6cf75351a7af66d",
+        "type": "tabs",
+        "dimension": 58.33333333333334,
+        "children": [
+          {
+            "id": "5c58da26855d0de2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a356d3fdec871f7e",
+        "type": "tabs",
+        "dimension": 41.66666666666666,
+        "children": [
+          {
+            "id": "3ac40cf4ab6a1021",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Minuta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "582fe818119ee92b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4f31e110c8981503",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "331645c85cfb0485",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "53d126ee2fa7ce46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "7db1ee3e77fafab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "d7e5fc59f8c46101",
+  "lastOpenFiles": [
+    "Proyectos/Aegentic_Programming/Untitled.md",
+    "Minuta.md",
+    "Proyectos/Aegentic_Programming",
+    "Personas/Hélder.md",
+    "RE_ Technical Inquiry Regarding FSM Controller Specifications.eml",
+    "Sources",
+    "[[.md",
+    "Modules/FSM.md",
+    "Modules/_draft_modules.md",
+    "RE_ Technical Inquiry Regarding FSM Controller Specifications.msg",
+    "Modules/nSLAM.md",
+    "Personas/L.Daniel.md",
+    "Sources/Pasted image 20260901110419.png",
+    "Personas/_draft_personas.md",
+    "Personas/Nicola.md",
+    "Personas/Salva.md",
+    "Personas/Palas.md",
+    "Personas/Miguel.md",
+    "Personas/Gio.md",
+    "Personas/Ana.md",
+    "Modules/Fish Eye.md",
+    "Proyectos/BIFROST.md",
+    "Personas/Yisus.md",
+    "Aside Work/Robotic Platform Scouting.md",
+    "Modules/Liquid Crystal.md",
+    "Proyectos/EVENTGUARD.md",
+    "Proyectos/ROBOTGNITION.md",
+    "Modules/Robognition 1.md",
+    "Sources/BifrostRoadmap.pdf",
+    "Welcome.md",
+    "Meetings/_draft_meetings.md",
+    "Proyectos/_draft_projects.md",
+    "logueo.xlsx",
+    "ValidationRoadmap 1.pdf",
+    "Sources/ValidationRoadmap.pdf",
+    "Sources/nSLAMRoadmap.pdf",
+    "Aside Work"
+  ]
+}
