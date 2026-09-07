@@ -4,7 +4,6 @@
 - [[01_EVENTGUARD]]
 - [[01_SEEKER]]
 
-
 # ONGOING
 ## Issues
 ## Blockers

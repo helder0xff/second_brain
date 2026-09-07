@@ -38,20 +38,6 @@
             }
           },
           {
-            "id": "e4955ab08023c6f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Modules/02_EVT_Deblurring/02_EVT_Deblurring.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02_EVT_Deblurring"
-            }
-          },
-          {
             "id": "23670053ec1c21a1",
             "type": "leaf",
             "pinned": true,
@@ -66,9 +52,23 @@
               "icon": "lucide-file",
               "title": "Hélder"
             }
+          },
+          {
+            "id": "6e0367ace008f126",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/Aigentic_Programming/Clean_AI_Video_1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Clean_AI_Video_1"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
       {
         "id": "aa9c2277afb313ef",
         "type": "tabs",
-        "dimension": 49.8062015503876,
+        "dimension": 71.98879551820728,
         "children": [
           {
             "id": "756ba3b449dd87df",
@@ -192,35 +192,28 @@
               "icon": "lucide-file",
               "title": "_draft_modules"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "131b7776b7a60067",
-        "type": "tabs",
-        "dimension": 30.813953488372093,
-        "children": [
+          },
           {
-            "id": "73c168f85162184f",
+            "id": "e4955ab08023c6f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/EVENTGUARD/01_EVENTGUARD.md",
+                "file": "01_Projects/Aigentic_Programming/Clean_AI_Video_1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_EVENTGUARD"
+              "title": "Clean_AI_Video_1"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "a356d3fdec871f7e",
         "type": "tabs",
-        "dimension": 19.379844961240313,
+        "dimension": 28.01120448179272,
         "children": [
           {
             "id": "3ac40cf4ab6a1021",
@@ -228,7 +221,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Modules/02_EVT_Deblurring/02_EVT_Deblurring.md",
+                "file": "01_Projects/Aigentic_Programming/Clean_AI_Video_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -332,21 +325,31 @@
   },
   "active": "e4955ab08023c6f1",
   "lastOpenFiles": [
-    "02_Modules/_draft_modules.md",
+    "01_Projects/Aigentic_Programming/The 3 laws of TDD.md",
+    "01_Projects/Aigentic_Programming/Clean_AI_Video_1.md",
+    "01_Projects/Aigentic_Programming/Cyclomatic Complexity.md",
+    "01_Projects/Aigentic_Programming/Terminology.md",
+    "01_Projects/Aigentic_Programming/Matt Pocock On AI SW Fundamentals.md",
+    "01_Projects/Aigentic_Programming/Context_Engineering.md",
+    "01_Projects/Aigentic_Programming/AI Programming Guidelines.md",
+    "01_Projects/Aigentic_Programming/01_Aigentic_Programming.md",
     "01_Projects/_draft_projects.md",
-    "02_Modules/02_EVT_Deblurring/02_EVT_Deblurring.md",
+    "02_Modules/EVT_Target_Tracking/02_EVT_Target_Tracking.md",
+    "02_Modules/EVT_Fast_Object_Detection/02_EVT_Fast_Object_Detection.md",
     "02_Modules/02_Super_Resolution/02_Super_Resolution.md",
+    "02_Modules/02_EVT_Filter/02_EVT_Filter.md",
+    "02_Modules/02_EVT_Deblurring/02_EVT_Deblurring.md",
+    "01_Projects/Robotic_Platform_Scouting/01_Robotic Platform Scouting.md",
+    "01_Projects/EVENTGUARD/Especificacaciones (Fase I).md",
+    "02_Modules/_draft_modules.md",
     "02_Modules/02_EVT_Deblurring",
     "02_Modules/nSLAM.md",
-    "02_Modules/02_EVT_Filter/02_EVT_Filter.md",
     "02_Modules/02_Super_Resolution",
     "96_Archive/01_SEEKER/01_SEEKER.md",
     "02_Modules/Untitled/desktop.ini",
     "02_Modules/02_EVT_Filter",
-    "02_Modules/EVT_Target_Tracking/02_EVT_Target_Tracking.md",
     "96_Archive/01_SEEKER",
     "96_Archive",
-    "02_Modules/EVT_Fast_Object_Detection/02_EVT_Fast_Object_Detection.md",
     "02_Modules/EVT_Target_Tracking",
     "02_Modules/_draft_module.md",
     "98_Personas/Pablo Díaz.md",
@@ -355,20 +358,10 @@
     "98_Personas/Hélder.md",
     "98_Personas/Navarro.md",
     "01_Projects/EVENTGUARD/Arquitectura Nivel 0.md",
-    "01_Projects/EVENTGUARD/Arquitectura Nivel 1.md",
-    "00_Inbox/Minuta.md",
-    "02_Modules/EVT_Fast_Object_Detection/IDS Camera Getting Started.md",
-    "98_Personas/Gio.md",
-    "98_Personas/Ana.md",
-    "01_Projects/EVENTGUARD/Especificacaciones (Fase I).md",
-    "Pasted image 20260906194302.png",
-    "Pasted image 20260906194232.png",
+    "99_Sources/Pasted image 20260906194302.png",
+    "99_Sources/Pasted image 20260906194232.png",
     "99_Sources/Pasted image 20260906193718.png",
-    "01_Projects/EVENTGUARD/01_EVENTGUARD.md",
-    "99_Sources/Especificaciones_Sistema_EventGuard.md",
-    "02_Modules/FSM/02_FSM.md",
     "02_Modules/FSM",
-    "01_Projects/BIFROST/01_BIFROST.md",
     "02_Modules/EVT_Fast_Object_Detection",
     "01_Projects/Robotic_Platform_Scouting",
     "99_Sources/Pasted image 20260901110419.png"

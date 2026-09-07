@@ -1,7 +1,7 @@
 [[01_EVENTGUARD]]
 # Índice  
-- [[#1. Objeto y alcance]]  
-- [[#2. Escenario operativo]]  
+- [[#1. Objeto y alcance ]] 
+- [[#2. Escenario operativo]]
 - [[#3. Arquitectura funcional]]
 - [[#4. Requisitos funcionales]]  
 - [[#5. Prestaciones mínimas]]  
@@ -24,9 +24,9 @@ El sistema debe:
 
 - Permitir operación manual, semiautomática y automática.  
 
-- Integrarse con [[SIVE]] o sistemas equivalentes.  
+- Integrarse con SIVE o sistemas equivalentes.  
 
-- Alcanzar un nivel [[TRL]] 7-8 en las fases posteriores del proyecto.  
+- Alcanzar un nivel TRL 7-8 en las fases posteriores del proyecto.  
 
   
 
@@ -198,7 +198,7 @@ El sistema debe:
 
 - Control remoto sin pérdida de prestaciones.  
 
-- Integración lógica y funcional con [[SIVE]].  
+- Integración lógica y funcional con SIVE.  
 
 - Sincronización temporal común entre subsistemas.  
 
@@ -540,9 +540,9 @@ El subsistema de inteligencia artificial debe soportar:
 
 - Transmisión de telemetría.  
 
-- Definición de un [[ICD]].  
+- Definición de un ICD.  
 
-- Integración lógica y funcional con [[SIVE]].  
+- Integración lógica y funcional con SIVE.  
 
 - Conexión segura al sistema energético del emplazamiento.  
 
@@ -632,33 +632,33 @@ El sistema debe:
 
 |---|---:|---|  
 
-| Temperatura de operación | `-15 °C a +45 °C` | [[MIL-STD-810G]] |  
+| Temperatura de operación | `-15 °C a +45 °C` | MIL-STD-810G |  
 
-| Almacenamiento y tránsito | `-20 °C a +50 °C` | [[MIL-STD-810G]] |  
+| Almacenamiento y tránsito | `-20 °C a +50 °C` | MIL-STD-810G |  
 
-| Humedad relativa | `90 % a 40 °C`, sin condensación | [[MIL-STD-810G]] |  
+| Humedad relativa | `90 % a 40 °C`, sin condensación | MIL-STD-810G |  
 
-| Hongos | Sin desarrollo de hongos | [[MIL-STD-810G]] |  
+| Hongos | Sin desarrollo de hongos | MIL-STD-810G |  
 
-| Arena y polvo | Hasta `10 g/m³` | [[MIL-STD-810G]] |  
+| Arena y polvo | Hasta `10 g/m³` | MIL-STD-810G |  
 
-| Niebla salina | Sin corrosión | [[MIL-STD-810G]] |  
+| Niebla salina | Sin corrosión | MIL-STD-810G |  
 
-| Hielo | Cargas de hasta `1 kg/m²` | [[MIL-STD-810G]] |  
+| Hielo | Cargas de hasta `1 kg/m²` | MIL-STD-810G |  
 
-| Lluvia | `30 mm/h`, sin filtraciones | [[MIL-STD-810G]] |  
+| Lluvia | `30 mm/h`, sin filtraciones | MIL-STD-810G |  
 
-| Radiación solar | Hasta `1.130 W/m²` | [[MIL-STD-810G]] |  
+| Radiación solar | Hasta `1.130 W/m²` | MIL-STD-810G |  
 
-| Vibración | Sin degradación funcional | [[MIL-STD-810G]] |  
+| Vibración | Sin degradación funcional | MIL-STD-810G |  
 
-| Choque mecánico | Sin fallo estructural | [[MIL-STD-810G]] |  
+| Choque mecánico | Sin fallo estructural | MIL-STD-810G |  
 
 | Viento en torres | Hasta `150 km/h` | Ensayo estructural |  
 
 | Viento en estructuras | Hasta `180 km/h` | Ensayo estructural |  
 
-| Compatibilidad electromagnética | Cumplimiento | [[MIL-STD-461E]] |  
+| Compatibilidad electromagnética | Cumplimiento | MIL-STD-461E |  
 
   
 
@@ -820,7 +820,7 @@ La validación final deberá:
 
 - [ ] Definir los formatos de metadatos, tracks y alertas.  
 
-- [ ] Detallar los protocolos de integración en el [[ICD]].  
+- [ ] Detallar los protocolos de integración en el ICD.  
 
 - [ ] Especificar los perfiles H.264/H.265.  
 
@@ -876,44 +876,10 @@ La validación final deberá:
 
 - **Vida útil:** `>= 15 años`.  
 
-- **Compatibilidad ambiental:** [[MIL-STD-810G]].  
+- **Compatibilidad ambiental:** MIL-STD-810G.  
 
-- **Compatibilidad electromagnética:** [[MIL-STD-461E]].  
+- **Compatibilidad electromagnética:** MIL-STD-461E.  
 
-- **Integración:** [[SIVE]] mediante [[ICD]].  
+- **Integración:** SIVE mediante ICD.  
 
-- **Madurez tecnológica objetivo:** [[TRL]] 7-8.  
-
-  
-
-## Notas relacionadas  
-
-  
-
-- [[EventGuard]]  
-
-- [[SIVE]]  
-
-- [[ICD]]  
-
-- [[TRL]]  
-
-- [[MIL-STD-810G]]  
-
-- [[MIL-STD-461E]]  
-
-- [[Matriz de trazabilidad de requisitos EventGuard]]  
-
-- [[Plan de verificación y validación EventGuard]]  
-
-  
-
-## Historial de cambios  
-
-  
-
-| Fecha | Versión | Cambio |  
-
-|---|---:|---|  
-
-| 2026-09-06 | 0.1 | Conversión del documento fuente a una nota compatible con Obsidian. |
+- **Madurez tecnológica objetivo:** TRL 7-8.  
