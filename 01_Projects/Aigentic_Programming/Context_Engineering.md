@@ -1,0 +1,2 @@
+[[01_Aigentic_Programming]]
+- **Context engineering** is the discipline of making that context work well. It means deciding **what to include** and what to leave out, **structuring** **information** so the model’s attention lands where it matters, and **keeping the** **context accurate** as sessions evolve and codebases change.

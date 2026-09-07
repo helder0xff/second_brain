@@ -1,0 +1,2 @@
+- "**Para alcanzar conocimiento añade cosas cada día.** **Para alcanzar sabiduría, elimina cosas cada día.**" Lao Tzu
+- "**Vera ipsum factum** " (Sólo entendemos lo que hacemos), Giambattista Vico

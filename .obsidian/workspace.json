@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "3f961e9bf67ea18e",
-        "type": "tabs",
-        "dimension": 49.96456413890857,
-        "children": [
-          {
-            "id": "adf398b543d911f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proyectos/Aegentic_Programming/Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          }
-        ]
-      },
-      {
         "id": "a57b7fe60a0c1e3a",
         "type": "tabs",
-        "dimension": 50.03543586109143,
         "children": [
           {
             "id": "d7e5fc59f8c46101",
@@ -36,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minuta.md",
+                "file": "00_Inbox/Minuta.md",
                 "mode": "source",
                 "source": false
               },
@@ -46,90 +24,51 @@
             }
           },
           {
-            "id": "658a837fa21ad39a",
+            "id": "b19ca235854e8b4d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/FSM.md",
+                "file": "01_Projects/EVENTGUARD/Arquitectura Nivel 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FSM"
+              "title": "Arquitectura Nivel 1"
             }
           },
           {
-            "id": "74aa418a7b768880",
+            "id": "e4955ab08023c6f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Modules/nSLAM.md",
+                "file": "02_Modules/02_EVT_Deblurring/02_EVT_Deblurring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nSLAM"
+              "title": "02_EVT_Deblurring"
             }
           },
           {
-            "id": "57dd0d31060bb830",
+            "id": "23670053ec1c21a1",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meetings/_draft_meetings.md",
+                "file": "98_Personas/Hélder.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "_draft_meetings"
-            }
-          },
-          {
-            "id": "4a89d342a34fe39f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modules/nSLAM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "nSLAM"
-            }
-          },
-          {
-            "id": "58286906efabfcf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modules/FSM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FSM"
-            }
-          },
-          {
-            "id": "2246aa62470a6682",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personas/Gio.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Gio"
+              "title": "Hélder"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,19 +130,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 365.5
   },
   "right": {
     "id": "e58a5efec006a7f5",
     "type": "split",
     "children": [
       {
-        "id": "d6cf75351a7af66d",
+        "id": "aa9c2277afb313ef",
         "type": "tabs",
-        "dimension": 58.33333333333334,
+        "dimension": 49.8062015503876,
         "children": [
           {
-            "id": "5c58da26855d0de2",
+            "id": "756ba3b449dd87df",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -211,13 +150,77 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "0dd50b30b3fa5e9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Modules/EVT_Fast_Object_Detection/02_EVT_Fast_Object_Detection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_EVT_Fast_Object_Detection"
+            }
+          },
+          {
+            "id": "049219b8047f36e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/_draft_projects.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_draft_projects"
+            }
+          },
+          {
+            "id": "702eb6100b82a576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Modules/_draft_modules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_draft_modules"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "131b7776b7a60067",
+        "type": "tabs",
+        "dimension": 30.813953488372093,
+        "children": [
+          {
+            "id": "73c168f85162184f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/EVENTGUARD/01_EVENTGUARD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_EVENTGUARD"
+            }
           }
         ]
       },
       {
         "id": "a356d3fdec871f7e",
         "type": "tabs",
-        "dimension": 41.66666666666666,
+        "dimension": 19.379844961240313,
         "children": [
           {
             "id": "3ac40cf4ab6a1021",
@@ -225,7 +228,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minuta.md",
+                "file": "02_Modules/02_EVT_Deblurring/02_EVT_Deblurring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -314,57 +317,60 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 805.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
       "bases:Create new base": false
     }
   },
-  "active": "d7e5fc59f8c46101",
+  "active": "e4955ab08023c6f1",
   "lastOpenFiles": [
-    "Proyectos/Aegentic_Programming/Untitled.md",
-    "Minuta.md",
-    "Proyectos/Aegentic_Programming",
-    "Personas/Hélder.md",
-    "RE_ Technical Inquiry Regarding FSM Controller Specifications.eml",
-    "Sources",
-    "[[.md",
-    "Modules/FSM.md",
-    "Modules/_draft_modules.md",
-    "RE_ Technical Inquiry Regarding FSM Controller Specifications.msg",
-    "Modules/nSLAM.md",
-    "Personas/L.Daniel.md",
-    "Sources/Pasted image 20260901110419.png",
-    "Personas/_draft_personas.md",
-    "Personas/Nicola.md",
-    "Personas/Salva.md",
-    "Personas/Palas.md",
-    "Personas/Miguel.md",
-    "Personas/Gio.md",
-    "Personas/Ana.md",
-    "Modules/Fish Eye.md",
-    "Proyectos/BIFROST.md",
-    "Personas/Yisus.md",
-    "Aside Work/Robotic Platform Scouting.md",
-    "Modules/Liquid Crystal.md",
-    "Proyectos/EVENTGUARD.md",
-    "Proyectos/ROBOTGNITION.md",
-    "Modules/Robognition 1.md",
-    "Sources/BifrostRoadmap.pdf",
-    "Welcome.md",
-    "Meetings/_draft_meetings.md",
-    "Proyectos/_draft_projects.md",
-    "logueo.xlsx",
-    "ValidationRoadmap 1.pdf",
-    "Sources/ValidationRoadmap.pdf",
-    "Sources/nSLAMRoadmap.pdf",
-    "Aside Work"
+    "02_Modules/_draft_modules.md",
+    "01_Projects/_draft_projects.md",
+    "02_Modules/02_EVT_Deblurring/02_EVT_Deblurring.md",
+    "02_Modules/02_Super_Resolution/02_Super_Resolution.md",
+    "02_Modules/02_EVT_Deblurring",
+    "02_Modules/nSLAM.md",
+    "02_Modules/02_EVT_Filter/02_EVT_Filter.md",
+    "02_Modules/02_Super_Resolution",
+    "96_Archive/01_SEEKER/01_SEEKER.md",
+    "02_Modules/Untitled/desktop.ini",
+    "02_Modules/02_EVT_Filter",
+    "02_Modules/EVT_Target_Tracking/02_EVT_Target_Tracking.md",
+    "96_Archive/01_SEEKER",
+    "96_Archive",
+    "02_Modules/EVT_Fast_Object_Detection/02_EVT_Fast_Object_Detection.md",
+    "02_Modules/EVT_Target_Tracking",
+    "02_Modules/_draft_module.md",
+    "98_Personas/Pablo Díaz.md",
+    "EventGuard.md",
+    "98_Personas/_draft_personas.md",
+    "98_Personas/Hélder.md",
+    "98_Personas/Navarro.md",
+    "01_Projects/EVENTGUARD/Arquitectura Nivel 0.md",
+    "01_Projects/EVENTGUARD/Arquitectura Nivel 1.md",
+    "00_Inbox/Minuta.md",
+    "02_Modules/EVT_Fast_Object_Detection/IDS Camera Getting Started.md",
+    "98_Personas/Gio.md",
+    "98_Personas/Ana.md",
+    "01_Projects/EVENTGUARD/Especificacaciones (Fase I).md",
+    "Pasted image 20260906194302.png",
+    "Pasted image 20260906194232.png",
+    "99_Sources/Pasted image 20260906193718.png",
+    "01_Projects/EVENTGUARD/01_EVENTGUARD.md",
+    "99_Sources/Especificaciones_Sistema_EventGuard.md",
+    "02_Modules/FSM/02_FSM.md",
+    "02_Modules/FSM",
+    "01_Projects/BIFROST/01_BIFROST.md",
+    "02_Modules/EVT_Fast_Object_Detection",
+    "01_Projects/Robotic_Platform_Scouting",
+    "99_Sources/Pasted image 20260901110419.png"
   ]
 }

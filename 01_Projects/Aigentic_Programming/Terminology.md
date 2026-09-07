@@ -1,0 +1,4 @@
+[[01_Aigentic_Programming]]
+- **Agentic Software Engineering**, donde el ingeniero dirige **agentes** que pueden **planificar**, modificar **repositorios**, **ejecutar herramientas**, lanzar **tests** y trabajar de forma bastante **autónoma**.
+- 
+- **Spec-Driven Development (SDD):** para **evitar que el objetivo se pierda en _prompts_ dispersos**, el SDD establece una **especificación** estructurada y compartida como la **única fuente de verdad para humanos e IA**.
