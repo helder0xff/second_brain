@@ -12,4 +12,7 @@
 # Notes
 - Anda ahora mismo con el sincronizado de la cámara de Prophesee y la Ximea.
 - Siguiente andará con el estudio del performance de la cámara de Prophesee y la IDS.
+# Anexo Prácticas
+![[viewAnexo.pdf]]
+
 

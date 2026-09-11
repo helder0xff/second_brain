@@ -1,7 +1,11 @@
 # This Sprint
 -
 # Next Sprint
-- 
+- Presentación [[01_EVENTGUARD]]:
+	- Roadmap (hacer diagrama actualizado)
+	- Diagramas de bloques (poner los que ya tenemos para explicar que todo sigue como hasta ahora)
+	- Preparar presentación con [[Miguel]] 
+	- Documento final reactualizar (tirar del último documento de la fase L)
 # TODO
 - Move all the repos to the Pulsar Github.
 - Candido, mirar reunión sobre la NAS de [[01_EVENTGUARD]]
@@ -37,6 +41,8 @@
 # QUICK LINKS
 - **github de PULSARhri** [PulsarHRI](https://arqg.ghe.com/PulsarHRI)
 - **PULSAR tech progress ppt** [260814 - Technical Progress Review.pptx](https://arqg.sharepoint.com/:p:/s/An-OrbitalRobotics/IQCOJRWfN4LLQIqflMljQcV5AbNFqgrHIR1xM5WGmZpn-UU?e=hotlRh)
+- **Folder for the pre-sprint presentation**: [pre-sprint-review-presentations](https://arqg.sharepoint.com/:f:/s/BIFROST2526/IgC25ULwutQrQ6Y26AdqcOYKAZmTwuoQW60VK0_XJ8hTKjA?e=JiLt2b)
+- 
 # Data
 - **nuc_bifrost**: Arc2026ext!
 

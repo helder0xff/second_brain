@@ -1,5 +1,5 @@
 # Modules
-- [[nSLAM]]
+- [[01_nSLAM]]
 - [[Liquid Crystal]]
 - [[Fish Eye]]
 # Contributors

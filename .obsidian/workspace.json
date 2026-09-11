@@ -24,51 +24,63 @@
             }
           },
           {
-            "id": "b19ca235854e8b4d",
+            "id": "100f00b36cb43b8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/EVENTGUARD/Arquitectura Nivel 1.md",
+                "file": "02_Modules/02_Fisheye_Custom/02_Fisheye_Custom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arquitectura Nivel 1"
+              "title": "02_Fisheye_Custom"
             }
           },
           {
-            "id": "23670053ec1c21a1",
+            "id": "80f9f1997e742166",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "98_Personas/Hélder.md",
+                "file": "02_Modules/Liquid Crystal.md",
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
-              "title": "Hélder"
+              "title": "Liquid Crystal"
             }
           },
           {
-            "id": "6e0367ace008f126",
+            "id": "b983d2530bddb595",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/Aigentic_Programming/Clean_AI_Video_1.md",
+                "file": "02_Modules/02_Fisheye_Custom/02_Fisheye_Custom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clean_AI_Video_1"
+              "title": "02_Fisheye_Custom"
+            }
+          },
+          {
+            "id": "28a050d621e958e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Modules/02_Robotic_Platform/02_Robotic_Platform.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_Robotic_Platform"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 328.70001220703125
   },
   "right": {
     "id": "e58a5efec006a7f5",
@@ -139,7 +151,7 @@
       {
         "id": "aa9c2277afb313ef",
         "type": "tabs",
-        "dimension": 71.98879551820728,
+        "dimension": 64.02877697841727,
         "children": [
           {
             "id": "756ba3b449dd87df",
@@ -180,6 +192,34 @@
             }
           },
           {
+            "id": "654973792bd0b360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/01_nSLAM/01_nSLAM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_nSLAM"
+            }
+          },
+          {
+            "id": "acfad94426a0393f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Modules/_draft_modules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_draft_modules"
+            }
+          },
+          {
             "id": "702eb6100b82a576",
             "type": "leaf",
             "state": {
@@ -206,6 +246,64 @@
               "icon": "lucide-file",
               "title": "Clean_AI_Video_1"
             }
+          },
+          {
+            "id": "ad5fc9672594231a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Modules/02_Fisheye_Custom/02_Fisheye_Custom.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_Fisheye_Custom"
+            }
+          },
+          {
+            "id": "23670053ec1c21a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "98_Personas/Hélder.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Hélder"
+            }
+          },
+          {
+            "id": "986df3fc40a6bc99",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Modules/02_FSM/02_FSM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_FSM"
+            }
+          },
+          {
+            "id": "78e3df1e1e78b310",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Modules/_draft_modules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_draft_modules"
+            }
           }
         ],
         "currentTab": 4
@@ -213,7 +311,7 @@
       {
         "id": "a356d3fdec871f7e",
         "type": "tabs",
-        "dimension": 28.01120448179272,
+        "dimension": 35.97122302158273,
         "children": [
           {
             "id": "3ac40cf4ab6a1021",
@@ -221,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Projects/Aigentic_Programming/Clean_AI_Video_1.md",
+                "file": "00_Inbox/Minuta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -305,12 +403,23 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "bcc33be90879c409",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 805.5
+    "width": 615.0999755859375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -323,47 +432,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "e4955ab08023c6f1",
+  "active": "28a050d621e958e6",
   "lastOpenFiles": [
-    "01_Projects/Aigentic_Programming/The 3 laws of TDD.md",
+    "02_Modules/_draft_modules.md",
+    "02_Modules/02_Robotic_Platform/02_Robotic_Platform.md",
+    "00_Inbox/Minuta.md",
+    "02_Modules/02_Robotic_Platform",
+    "02_Modules/02_Fisheye_Custom/02_Fisheye_Custom.md",
+    "98_Personas/Pablo Díaz.md",
+    "99_Sources/viewAnexo.pdf",
+    "02_Modules/Liquid Crystal.md",
+    "02_Modules/Fish Eye.md",
+    "02_Modules/Cortical Columns.md",
+    "02_Modules/02_EVT_Camera_IMU_Calibration/02_EVT_Camera_IMU_Calibration.md",
+    "02_Modules/02_EVT_Camera_IMU_Calibration",
+    "01_Projects/01_nSLAM/01_nSLAM.md",
+    "01_Projects/01_nSLAM",
+    "02_Modules/02_FSM/02_FSM.md",
+    "02_Modules/02_Fisheye_Custom",
+    "02_Modules/02_EVT_Filter/02_EVT_Filter.md",
+    "02_Modules/02_EVT_Deblurring/02_EVT_Deblurring.md",
+    "01_Projects/Aigentic_Programming/01_Aigentic_Programming.md",
+    "99_Sources/Pasted image 20260909115616.png",
+    "98_Personas/Hélder.md",
+    "01_Projects/EVENTGUARD/Arquitectura Nivel 1.md",
+    "01_Projects/Aigentic_Programming/AI Programming Guidelines.md",
     "01_Projects/Aigentic_Programming/Clean_AI_Video_1.md",
+    "01_Projects/Aigentic_Programming/The 3 laws of TDD.md",
     "01_Projects/Aigentic_Programming/Cyclomatic Complexity.md",
     "01_Projects/Aigentic_Programming/Terminology.md",
     "01_Projects/Aigentic_Programming/Matt Pocock On AI SW Fundamentals.md",
     "01_Projects/Aigentic_Programming/Context_Engineering.md",
-    "01_Projects/Aigentic_Programming/AI Programming Guidelines.md",
-    "01_Projects/Aigentic_Programming/01_Aigentic_Programming.md",
     "01_Projects/_draft_projects.md",
-    "02_Modules/EVT_Target_Tracking/02_EVT_Target_Tracking.md",
-    "02_Modules/EVT_Fast_Object_Detection/02_EVT_Fast_Object_Detection.md",
-    "02_Modules/02_Super_Resolution/02_Super_Resolution.md",
-    "02_Modules/02_EVT_Filter/02_EVT_Filter.md",
-    "02_Modules/02_EVT_Deblurring/02_EVT_Deblurring.md",
-    "01_Projects/Robotic_Platform_Scouting/01_Robotic Platform Scouting.md",
-    "01_Projects/EVENTGUARD/Especificacaciones (Fase I).md",
-    "02_Modules/_draft_modules.md",
+    "02_Modules/02_EVT_Target_Tracking/02_EVT_Target_Tracking.md",
+    "02_Modules/02_EVT_Fast_Object_Detection/02_EVT_Fast_Object_Detection.md",
     "02_Modules/02_EVT_Deblurring",
-    "02_Modules/nSLAM.md",
     "02_Modules/02_Super_Resolution",
-    "96_Archive/01_SEEKER/01_SEEKER.md",
     "02_Modules/Untitled/desktop.ini",
     "02_Modules/02_EVT_Filter",
     "96_Archive/01_SEEKER",
-    "96_Archive",
-    "02_Modules/EVT_Target_Tracking",
-    "02_Modules/_draft_module.md",
-    "98_Personas/Pablo Díaz.md",
-    "EventGuard.md",
-    "98_Personas/_draft_personas.md",
-    "98_Personas/Hélder.md",
-    "98_Personas/Navarro.md",
-    "01_Projects/EVENTGUARD/Arquitectura Nivel 0.md",
     "99_Sources/Pasted image 20260906194302.png",
     "99_Sources/Pasted image 20260906194232.png",
     "99_Sources/Pasted image 20260906193718.png",
-    "02_Modules/FSM",
-    "02_Modules/EVT_Fast_Object_Detection",
-    "01_Projects/Robotic_Platform_Scouting",
     "99_Sources/Pasted image 20260901110419.png"
   ]
 }
