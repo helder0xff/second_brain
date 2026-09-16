@@ -1,5 +1,5 @@
 # Contributors
-- [[Pablo Díaz]]
+- [[Pereda]]
 # Projects
 - [[01_EVENTGUARD]]
 - [[01_SEEKER]]

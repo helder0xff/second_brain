@@ -1,9 +1,9 @@
-# Contributors
+# Description
+
 # Projects
 
 # ONGOING
-## Issues
-## Blockers
+
 # TODO
 # History
 # Resources

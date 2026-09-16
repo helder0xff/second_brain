@@ -1,5 +1,5 @@
 # Contributors
-[[Hélder]]
+[[Helder]]
 # Projects
 [[01_EVENTGUARD]]
 

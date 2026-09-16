@@ -24,63 +24,49 @@
             }
           },
           {
-            "id": "100f00b36cb43b8a",
+            "id": "3dad2880ab5e0fc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Modules/02_Fisheye_Custom/02_Fisheye_Custom.md",
+                "file": "04_Personas/Helder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_Fisheye_Custom"
+              "title": "Helder"
             }
           },
           {
-            "id": "80f9f1997e742166",
+            "id": "6d8eb5ab704d7966",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Modules/Liquid Crystal.md",
+                "file": "01_Projects/EVENTGUARD/01_EVENTGUARD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Liquid Crystal"
+              "title": "01_EVENTGUARD"
             }
           },
           {
-            "id": "b983d2530bddb595",
+            "id": "f103a21af77e4544",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Modules/02_Fisheye_Custom/02_Fisheye_Custom.md",
+                "file": "02_Modules/02_OPT_FSM/02_OPT_FSM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_Fisheye_Custom"
-            }
-          },
-          {
-            "id": "28a050d621e958e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Modules/02_Robotic_Platform/02_Robotic_Platform.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02_Robotic_Platform"
+              "title": "02_OPT_FSM"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,159 +140,49 @@
         "dimension": 64.02877697841727,
         "children": [
           {
-            "id": "756ba3b449dd87df",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "0dd50b30b3fa5e9b",
+            "id": "e3725fbe38c65fde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02_Modules/EVT_Fast_Object_Detection/02_EVT_Fast_Object_Detection.md",
+                "file": "04_Personas/Helder.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02_EVT_Fast_Object_Detection"
+              "title": "Helder"
             }
           },
           {
-            "id": "049219b8047f36e6",
+            "id": "0ce01e53f4a7a4e8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/_draft_projects.md",
+                "file": "04_Personas/Pereda.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_draft_projects"
+              "title": "Pereda"
             }
           },
           {
-            "id": "654973792bd0b360",
+            "id": "bd5082f613cde349",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Projects/01_nSLAM/01_nSLAM.md",
+                "file": "02_Modules/02_draft_modules.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_nSLAM"
-            }
-          },
-          {
-            "id": "acfad94426a0393f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Modules/_draft_modules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_draft_modules"
-            }
-          },
-          {
-            "id": "702eb6100b82a576",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Modules/_draft_modules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_draft_modules"
-            }
-          },
-          {
-            "id": "e4955ab08023c6f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Projects/Aigentic_Programming/Clean_AI_Video_1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clean_AI_Video_1"
-            }
-          },
-          {
-            "id": "ad5fc9672594231a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Modules/02_Fisheye_Custom/02_Fisheye_Custom.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02_Fisheye_Custom"
-            }
-          },
-          {
-            "id": "23670053ec1c21a1",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "98_Personas/Hélder.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Hélder"
-            }
-          },
-          {
-            "id": "986df3fc40a6bc99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Modules/02_FSM/02_FSM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02_FSM"
-            }
-          },
-          {
-            "id": "78e3df1e1e78b310",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Modules/_draft_modules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "_draft_modules"
+              "title": "02_draft_modules"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "a356d3fdec871f7e",
@@ -319,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Inbox/Minuta.md",
+                "file": "02_Modules/02_OPT_FSM/02_OPT_FSM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -381,7 +257,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "00_Inbox/Quotes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -389,33 +265,8 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
-          },
-          {
-            "id": "7db1ee3e77fafab1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "bcc33be90879c409",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -432,45 +283,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "28a050d621e958e6",
+  "active": "f103a21af77e4544",
   "lastOpenFiles": [
-    "02_Modules/_draft_modules.md",
-    "02_Modules/02_Robotic_Platform/02_Robotic_Platform.md",
+    "01_Projects/EVENTGUARD/01_EVENTGUARD.md",
+    "02_Modules/02_OPT_FSM/02_OPT_FSM.md",
     "00_Inbox/Minuta.md",
-    "02_Modules/02_Robotic_Platform",
+    "02_Modules/02_OPT_Fisheye/02_OPT_Fisheye.md",
+    "04_Personas/Helder.md",
+    "00_Inbox/Quotes.md",
+    "05_Books/05_Crea_Tu_Segundo_Cerebro/05_Crea_Tu_Segundo_Cerebro.md",
+    "05_Books",
+    "00_Inbox/Untitled",
+    "03_Areas/Second_Brain/03_Second_Brain.md",
+    "03_Areas/03_draft_areas.md",
+    "03_Areas/Second_Brain/Resources.md",
+    "02_Modules/02_EVT_Camera_Calibration/02_EVT_Camera_Calibration.md",
+    "02_Modules/02_draft_modules.md",
+    "05_Books/05_Crea_Tu_Segundo_Cerebro/Drafts.md",
+    "01_Projects/01_nSLAM/01_nSLAM.md",
+    "00_Inbox/Ideas.md",
+    "04_Personas/Pereda.md",
+    "02_Modules/02_EVT_Camera_Calibration",
+    "01_Projects/01_draft_projects.md",
+    "01_Projects/Aigentic_Programming/Clean_AI_Video_1.md",
     "02_Modules/02_Fisheye_Custom/02_Fisheye_Custom.md",
-    "98_Personas/Pablo Díaz.md",
+    "02_Modules/02_COG_Cortical_Columns/02_COG_Cortical_Columns.md",
+    "02_Modules/02_COG_Cortical_Columns",
+    "02_Modules/02_OPT_Liquid_Crystal/02_OPT_Liquid_Crystal.md",
+    "02_Modules/02_OPT_Fisheye",
+    "02_Modules/02_OPT_Liquid_Crystal",
+    "02_Modules/02_EVT_Feature_Extraction/02_EVT_Feature_Extraction.md",
+    "02_Modules/02_EVT_Feature_Extraction",
+    "02_Modules/02_Robotic_Platform/02_Robotic_Platform.md",
+    "02_Modules/02_Robotic_Platform",
     "99_Sources/viewAnexo.pdf",
-    "02_Modules/Liquid Crystal.md",
-    "02_Modules/Fish Eye.md",
-    "02_Modules/Cortical Columns.md",
     "02_Modules/02_EVT_Camera_IMU_Calibration/02_EVT_Camera_IMU_Calibration.md",
     "02_Modules/02_EVT_Camera_IMU_Calibration",
-    "01_Projects/01_nSLAM/01_nSLAM.md",
-    "01_Projects/01_nSLAM",
-    "02_Modules/02_FSM/02_FSM.md",
-    "02_Modules/02_Fisheye_Custom",
     "02_Modules/02_EVT_Filter/02_EVT_Filter.md",
     "02_Modules/02_EVT_Deblurring/02_EVT_Deblurring.md",
-    "01_Projects/Aigentic_Programming/01_Aigentic_Programming.md",
     "99_Sources/Pasted image 20260909115616.png",
-    "98_Personas/Hélder.md",
-    "01_Projects/EVENTGUARD/Arquitectura Nivel 1.md",
-    "01_Projects/Aigentic_Programming/AI Programming Guidelines.md",
-    "01_Projects/Aigentic_Programming/Clean_AI_Video_1.md",
-    "01_Projects/Aigentic_Programming/The 3 laws of TDD.md",
-    "01_Projects/Aigentic_Programming/Cyclomatic Complexity.md",
-    "01_Projects/Aigentic_Programming/Terminology.md",
-    "01_Projects/Aigentic_Programming/Matt Pocock On AI SW Fundamentals.md",
-    "01_Projects/Aigentic_Programming/Context_Engineering.md",
-    "01_Projects/_draft_projects.md",
-    "02_Modules/02_EVT_Target_Tracking/02_EVT_Target_Tracking.md",
-    "02_Modules/02_EVT_Fast_Object_Detection/02_EVT_Fast_Object_Detection.md",
-    "02_Modules/02_EVT_Deblurring",
-    "02_Modules/02_Super_Resolution",
-    "02_Modules/Untitled/desktop.ini",
-    "02_Modules/02_EVT_Filter",
-    "96_Archive/01_SEEKER",
     "99_Sources/Pasted image 20260906194302.png",
     "99_Sources/Pasted image 20260906194232.png",
     "99_Sources/Pasted image 20260906193718.png",

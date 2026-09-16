@@ -1,4 +1,4 @@
-[[01_Crea_Tu_Segundo_Cerebro]]
+[[05_Crea_Tu_Segundo_Cerebro]]
 # Resumen Progresivo
 - **Captuar**: capturar el original. 1ª capa de conocimiento.
 - **Negrita**: 2ª capa de conocimiento.

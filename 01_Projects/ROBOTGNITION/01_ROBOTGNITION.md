@@ -1,5 +1,5 @@
 # Modules
-- [[Cortical Columns]]
+- [[02_COG_Cortical_Columns]]
 # Contributors
 [[Gio]]
 # ONGOING

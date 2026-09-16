@@ -1,7 +1,7 @@
 # Modules
 - [[01_nSLAM]]
-- [[Liquid Crystal]]
-- [[Fish Eye]]
+- [[02_OPT_Liquid_Crystal]]
+- [[02_OPT_Fisheye]]
 # Contributors
 - [[Ana]]
 # Aside Work
