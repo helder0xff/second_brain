@@ -66,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02_Modules/02_OPT_FSM/02_OPT_FSM.md",
+                "file": "01_Projects/EVENTGUARD/01_EVENTGUARD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,10 +283,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "f103a21af77e4544",
+  "active": "6d8eb5ab704d7966",
   "lastOpenFiles": [
-    "01_Projects/EVENTGUARD/01_EVENTGUARD.md",
     "02_Modules/02_OPT_FSM/02_OPT_FSM.md",
+    "01_Projects/EVENTGUARD/01_EVENTGUARD.md",
     "00_Inbox/Minuta.md",
     "02_Modules/02_OPT_Fisheye/02_OPT_Fisheye.md",
     "04_Personas/Helder.md",
