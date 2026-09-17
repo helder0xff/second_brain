@@ -24,45 +24,19 @@
             }
           },
           {
-            "id": "3dad2880ab5e0fc7",
+            "id": "e3a827671c0f63cc",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Personas/Helder.md",
+                "file": "01_Projects/01_PhD/01_PhD.md",
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
-              "title": "Helder"
-            }
-          },
-          {
-            "id": "6d8eb5ab704d7966",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Projects/EVENTGUARD/01_EVENTGUARD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01_EVENTGUARD"
-            }
-          },
-          {
-            "id": "f103a21af77e4544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Modules/02_OPT_FSM/02_OPT_FSM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02_OPT_FSM"
+              "title": "01_PhD"
             }
           }
         ],
@@ -128,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.70001220703125
+    "width": 365.5
   },
   "right": {
     "id": "e58a5efec006a7f5",
@@ -137,57 +111,28 @@
       {
         "id": "aa9c2277afb313ef",
         "type": "tabs",
-        "dimension": 64.02877697841727,
+        "dimension": 59.92366412213741,
         "children": [
           {
-            "id": "e3725fbe38c65fde",
+            "id": "65c142e60b3e21ab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04_Personas/Helder.md",
+                "file": "01_Projects/01_draft_projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Helder"
-            }
-          },
-          {
-            "id": "0ce01e53f4a7a4e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04_Personas/Pereda.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pereda"
-            }
-          },
-          {
-            "id": "bd5082f613cde349",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02_Modules/02_draft_modules.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02_draft_modules"
+              "title": "01_draft_projects"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "a356d3fdec871f7e",
         "type": "tabs",
-        "dimension": 35.97122302158273,
+        "dimension": 40.0763358778626,
         "children": [
           {
             "id": "3ac40cf4ab6a1021",
@@ -220,6 +165,16 @@
               },
               "icon": "links-going-out",
               "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "756ba3b449dd87df",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -257,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Inbox/Quotes.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -265,12 +220,27 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "7db1ee3e77fafab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 615.0999755859375
+    "width": 805.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,45 +253,46 @@
       "bases:Create new base": false
     }
   },
-  "active": "6d8eb5ab704d7966",
+  "active": "d7e5fc59f8c46101",
   "lastOpenFiles": [
-    "02_Modules/02_OPT_FSM/02_OPT_FSM.md",
-    "01_Projects/EVENTGUARD/01_EVENTGUARD.md",
+    "01_Projects/01_PhD/01_PhD.md",
     "00_Inbox/Minuta.md",
-    "02_Modules/02_OPT_Fisheye/02_OPT_Fisheye.md",
-    "04_Personas/Helder.md",
-    "00_Inbox/Quotes.md",
-    "05_Books/05_Crea_Tu_Segundo_Cerebro/05_Crea_Tu_Segundo_Cerebro.md",
-    "05_Books",
-    "00_Inbox/Untitled",
-    "03_Areas/Second_Brain/03_Second_Brain.md",
-    "03_Areas/03_draft_areas.md",
-    "03_Areas/Second_Brain/Resources.md",
-    "02_Modules/02_EVT_Camera_Calibration/02_EVT_Camera_Calibration.md",
-    "02_Modules/02_draft_modules.md",
-    "05_Books/05_Crea_Tu_Segundo_Cerebro/Drafts.md",
-    "01_Projects/01_nSLAM/01_nSLAM.md",
-    "00_Inbox/Ideas.md",
-    "04_Personas/Pereda.md",
-    "02_Modules/02_EVT_Camera_Calibration",
+    "02_Modules/02_EVT_Target_Tracking/02_EVT_Target_Tracking.md",
     "01_Projects/01_draft_projects.md",
+    "01_Projects/01_PhD",
+    "01_Projects/Untitled.canvas",
     "01_Projects/Aigentic_Programming/Clean_AI_Video_1.md",
-    "02_Modules/02_Fisheye_Custom/02_Fisheye_Custom.md",
-    "02_Modules/02_COG_Cortical_Columns/02_COG_Cortical_Columns.md",
-    "02_Modules/02_COG_Cortical_Columns",
-    "02_Modules/02_OPT_Liquid_Crystal/02_OPT_Liquid_Crystal.md",
-    "02_Modules/02_OPT_Fisheye",
-    "02_Modules/02_OPT_Liquid_Crystal",
-    "02_Modules/02_EVT_Feature_Extraction/02_EVT_Feature_Extraction.md",
-    "02_Modules/02_EVT_Feature_Extraction",
-    "02_Modules/02_Robotic_Platform/02_Robotic_Platform.md",
-    "02_Modules/02_Robotic_Platform",
+    "01_Projects/EVENTGUARD/Arquitectura Nivel 1.md",
     "99_Sources/viewAnexo.pdf",
-    "02_Modules/02_EVT_Camera_IMU_Calibration/02_EVT_Camera_IMU_Calibration.md",
-    "02_Modules/02_EVT_Camera_IMU_Calibration",
-    "02_Modules/02_EVT_Filter/02_EVT_Filter.md",
-    "02_Modules/02_EVT_Deblurring/02_EVT_Deblurring.md",
     "99_Sources/Pasted image 20260909115616.png",
+    "98_Archive/01_SEEKER/01_SEEKER.md",
+    "98_Archive/01_SEEKER",
+    "98_Archive",
+    "05_Books/05_Crea_Tu_Segundo_Cerebro/Tool_Potential.md",
+    "05_Books/05_Crea_Tu_Segundo_Cerebro/Note_Taking.md",
+    "05_Books/05_Crea_Tu_Segundo_Cerebro/Intermediate_Packages.md",
+    "05_Books/05_Crea_Tu_Segundo_Cerebro/Drafts.md",
+    "05_Books/05_Crea_Tu_Segundo_Cerebro/05_Crea_Tu_Segundo_Cerebro.md",
+    "05_Books/05_Crea_Tu_Segundo_Cerebro",
+    "05_Books",
+    "04_Personas/_draft_personas.md",
+    "04_Personas/Yisus.md",
+    "04_Personas/Sergio.md",
+    "04_Personas/Sanz.md",
+    "04_Personas/Salva.md",
+    "04_Personas/Pereda.md",
+    "04_Personas/Palas.md",
+    "04_Personas/Nicola.md",
+    "04_Personas/Navarro.md",
+    "04_Personas/Miguel.md",
+    "04_Personas/L.Daniel.md",
+    "04_Personas/Helder.md",
+    "04_Personas/Gio.md",
+    "04_Personas/Ana.md",
+    "04_Personas",
+    "02_Modules/02_Robotic_Platform",
+    "02_Modules/02_OPT_Liquid_Crystal",
+    "02_Modules/02_OPT_Fisheye",
     "99_Sources/Pasted image 20260906194302.png",
     "99_Sources/Pasted image 20260906194232.png",
     "99_Sources/Pasted image 20260906193718.png",
