@@ -1,4 +1,5 @@
 # Hot Notes
+- Escribir a Campoy y estos chicos lo que vamos a hacer con la segunda parte de la colaboración.
 - Enviar a Frank el paper: https://www.sciencedirect.com/science/article/abs/pii/S0263224126004070
 - Decire a Inés que los nuevos que vengan, para Madrid (hablar esto ocn Miguel)
 - [[02_Fisheye_Custom]]: 
