@@ -23,7 +23,7 @@ PhD, en el que estudiaré cómo afectaría el uso de un IMU basado en eventos en
 - How to correct scale factor.
 
 # Roadmap
-![[Pasted image 20260917122053.png]]
+![[Pasted image 20260918135911.png]]
 # Links
 [[01_nSLAM]]
 
