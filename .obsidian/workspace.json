@@ -1,0 +1,348 @@
+{
+  "main": {
+    "id": "47944412cc44d52d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a57b7fe60a0c1e3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7e5fc59f8c46101",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00_Inbox/Minuta.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Minuta"
+            }
+          },
+          {
+            "id": "3dad2880ab5e0fc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Personas/Helder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helder"
+            }
+          },
+          {
+            "id": "6d8eb5ab704d7966",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Projects/01_PhD/01_PhD.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01_PhD"
+            }
+          },
+          {
+            "id": "f103a21af77e4544",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Modules/02_OPT_FSM/02_OPT_FSM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_OPT_FSM"
+            }
+          },
+          {
+            "id": "06ef84d78379c9ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Personas/Miguel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Miguel"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8462e9d99543ae63",
+    "type": "split",
+    "children": [
+      {
+        "id": "1399224a7691cede",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a618faa5146ea69",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b77cae9265c4a70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ab678bc345bddcb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 328.70001220703125
+  },
+  "right": {
+    "id": "e58a5efec006a7f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa9c2277afb313ef",
+        "type": "tabs",
+        "dimension": 64.02877697841727,
+        "children": [
+          {
+            "id": "e3725fbe38c65fde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Personas/Helder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Helder"
+            }
+          },
+          {
+            "id": "0ce01e53f4a7a4e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_Personas/Pereda.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pereda"
+            }
+          },
+          {
+            "id": "bd5082f613cde349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Modules/02_draft_modules.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "02_draft_modules"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a356d3fdec871f7e",
+        "type": "tabs",
+        "dimension": 35.97122302158273,
+        "children": [
+          {
+            "id": "3ac40cf4ab6a1021",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04_Personas/Miguel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "582fe818119ee92b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "4f31e110c8981503",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "331645c85cfb0485",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "53d126ee2fa7ce46",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00_Inbox/Quotes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 615.0999755859375
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "06ef84d78379c9ce",
+  "lastOpenFiles": [
+    "01_Projects/01_Aigentic_Programming/AI Programming Guidelines.md",
+    "01_Projects/01_Aigentic_Programming/01_Aigentic_Programming.md",
+    "01_Projects/01_Aigentic_Programming/Clean_AI_Video_1.md",
+    "01_Projects/01_Aigentic_Programming/Context_Engineering.md",
+    "01_Projects/01_Aigentic_Programming/Matt Pocock On AI SW Fundamentals.md",
+    "01_Projects/01_Aigentic_Programming/Terminology.md",
+    "00_Inbox/Minuta.md",
+    "99_Sources/Screenshot from 2026-09-20 18-32-41.png",
+    "99_Sources/Pasted image 20260919192934.png",
+    "98_Archive/01_Notewatch/01_Notewatch.md",
+    "98_Archive/01_Notewatch",
+    "03_Areas/03_Aigentic/AI_Agents_Udemy_Course/CrewAI(Week3).md",
+    "03_Areas/03_Aigentic/AI_Agents_Udemy_Course/01_AI_Agents_Udemy_Course.md",
+    "03_Areas/03_Aigentic/AI_Agents_Udemy_Course",
+    "03_Areas/03_Aigentic/03_Aigentic.md",
+    "03_Areas/03_Aigentic",
+    "02_Modules/02_Robotic_Dev_Platform/02_Robotic_Dev_Platform.md",
+    "02_Modules/02_Robotic_Dev_Platform",
+    "01_Projects/01_ROBOTGNITION/01_ROBOTGNITION.md",
+    "01_Projects/01_ROBOTGNITION",
+    "01_Projects/01_PhD/WP0_evtVIO_SOA/Survery Paper.md",
+    "01_Projects/01_PhD/WP0_evtVIO_SOA",
+    "01_Projects/01_Edgpike_Impulse/01_Edgpike_Impulse.md",
+    "01_Projects/01_Edgpike_Impulse",
+    "01_Projects/01_EVENTGUARD/Especificacaciones (Fase I).md",
+    "01_Projects/01_EVENTGUARD/Arquitectura Nivel 1.md",
+    "01_Projects/01_EVENTGUARD/Arquitectura Nivel 0.md",
+    "01_Projects/01_EVENTGUARD/01_EVENTGUARD.md",
+    "01_Projects/01_EVENTGUARD",
+    "01_Projects/01_Aigentic_Programming",
+    "04_Personas/Helder.md",
+    "01_Projects/01_PhD/01_PhD.md",
+    "99_Sources/Pasted image 20260918135911.png",
+    "00_Inbox/Ideas.md",
+    "01_Projects/EVENTGUARD/Arquitectura Nivel 0.md",
+    "01_Projects/EVENTGUARD/Arquitectura Nivel 1.md",
+    "01_Projects/EVENTGUARD/01_EVENTGUARD.md",
+    "02_Modules/02_OPT_FSM/02_OPT_FSM.md",
+    "99_Sources/Pasted image 20260917122053.png",
+    "01_Projects/01_PhD",
+    "99_Sources/Pasted image 20260909115616.png",
+    "99_Sources/Pasted image 20260906194302.png",
+    "99_Sources/Pasted image 20260906194232.png",
+    "99_Sources/Pasted image 20260906193718.png",
+    "99_Sources/Pasted image 20260901110419.png"
+  ]
+}
