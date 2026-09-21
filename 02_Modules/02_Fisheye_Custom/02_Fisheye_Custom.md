@@ -3,6 +3,11 @@
 # Projects
 [[01_BIFROST]]
 # ONGOING
+- [[Nicola]] and [[Salva]] are in touch with Opto5 in order to develop it.
+- I opened the FLIR camera because there is not enough space to set the bean splitter 
+	- x: 27, 47 sin o 29.05 con carcasa.
+	- y: 23,65 sin ó 30.01 con carcasa.
+	- z: 26.03 sin ó 29.03 con carcasa. (all in mm)
 ## Issues
 ## Blockers
 # TODO
