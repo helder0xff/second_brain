@@ -1,12 +1,13 @@
+# Description
+Deblurring using event based cameras and events
 # Contributors
 [[Palas]]
-# Projects
-[[01_EVENTGUARD]]
 
 # ONGOING
-## Issues
-## Blockers
+- [[01_EVENTGUARD]] sprint 22: starting up.
 # TODO
-# History
-# Resources
+# DONE
+# Issues
+# Blockers
+
 

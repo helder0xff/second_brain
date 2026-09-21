@@ -1,7 +1,10 @@
+# Description
 # Contributors
 [[Yisus]]
-# Projects
+# ONGOING
 
+# TODO
+# DONE
 # Requirements
 - Requisitos plataforma hardware  
   - A ser posible que no sea Nvidia (1)  
@@ -15,11 +18,4 @@
   - NUC ultimo recurso (5)  
     - Plataforma robotica móvil (5)
 
-# ONGOING
-
-## Issues
-## Blockers
-# TODO
-# History
-# Resources
 

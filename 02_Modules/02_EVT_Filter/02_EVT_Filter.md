@@ -1,12 +1,11 @@
+# Description
+Event Based Filter
 # Contributors
-[[Helder]]
-# Projects
-[[01_EVENTGUARD]]
+[[Yisus]]
 
 # ONGOING
-## Issues
-## Blockers
 # TODO
-# History
-# Resources
+# DONE
+# Issues
+# Blockers
 

@@ -4,7 +4,7 @@
 [[01_BIFROST]]
 [[01_ROBOTGNITION]]
 # ONGOING
-- SOTA
+- FIrst "real" SOA by the end fo sprint 40.
 ## Issues
 ## Blockers
 # TODO
