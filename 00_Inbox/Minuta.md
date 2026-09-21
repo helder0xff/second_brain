@@ -1,4 +1,7 @@
 # Hot Notes
+# This Week
+- EL consorcio ese que me pide entrar Alvaro, hablarlo con Miguel
+- Reunión con Enrique y demás.
 - Enviar a Frank el paper: https://www.sciencedirect.com/science/article/abs/pii/S0263224126004070
 - Decire a Inés que los nuevos que vengan, para Madrid (hablar esto ocn Miguel)
 - [[02_Fisheye_Custom]]: 
