@@ -1,2 +1,4 @@
-- Lo del EDA
+- Lo del EDA (¿Queremos entrar en lo de defensa del GPS Denied Navigation?)
 - Lo de que nos preguntaron los otros para el target tracking las cámaras de eventos
+- Lo del cerebro de la mosca
+- 
