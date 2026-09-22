@@ -1,4 +1,15 @@
-- Lo del EDA (¿Queremos entrar en lo de defensa del GPS Denied Navigation?)
-- Lo de que nos preguntaron los otros para el target tracking las cámaras de eventos
+- Lo del EDA (¿Queremos entrar en lo de defensa del GPS Denied Navigation?) [EDA Link](https://eda.europa.eu/what-we-do/all-activities/activities-search/captech-guidance-navigation-and-control)
+	- La rula de los proyectos. 
+	- Si andas dentro es mucho más fácil que se te asigne algún proyecto.
+	- Hay que presentar lo que se está haciendo y es bueno: da visibilidad
+	- Asistencia física obligatoria 2 de 3 reuniones al año.
+- Hay que comprar WS
+- Lo de que nos preguntaron los otros (Aday) para el target tracking las cámaras de eventos
 - Lo del cerebro de la mosca
+- Technical on-boarding (Pixi, Git, ...)
+- Comprar una infrared barata para hacer pruebas?
+- [nMEMS](https://www.linkedin.com/safety/go?url=https%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fabs%2Fpii%2FS0263224126004070&trk=flagship-messaging-web&messageThreadUrn=urn%3Ali%3AmessagingThread%3A2-NzVmZjhmYWYtN2QwMi00ODk1LWEzMjktZGE1MGZhODAxYTdiXzAxMw%3D%3D&lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BG%2BwoNMCoSzOfvqPlmwrZxg%3D%3D)
+- [La Mosca](https://lnkd.in/p/eQtqhgfR)
+- [La Mosca 2]([Post | LinkedIn](https://www.linkedin.com/posts/onurszgin_robotics-neuroscience-connectomics-ugcPost-7506077726114590720-2cEE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGm8xoIBZQGpEG7yLKOFe9F88QgswSLFRac))
+- [La Mosca 3]([Fruit Fly Brain Circuitry Drives Robot Movement | Jiafei Duan posted on the topic | LinkedIn](https://lnkd.in/p/eH-JM2bD)
 - 
