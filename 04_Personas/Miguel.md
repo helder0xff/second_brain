@@ -12,4 +12,3 @@
 - [La Mosca](https://lnkd.in/p/eQtqhgfR)
 - [La Mosca 2]([Post | LinkedIn](https://www.linkedin.com/posts/onurszgin_robotics-neuroscience-connectomics-ugcPost-7506077726114590720-2cEE/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGm8xoIBZQGpEG7yLKOFe9F88QgswSLFRac))
 - [La Mosca 3]([Fruit Fly Brain Circuitry Drives Robot Movement | Jiafei Duan posted on the topic | LinkedIn](https://lnkd.in/p/eH-JM2bD)
-- 

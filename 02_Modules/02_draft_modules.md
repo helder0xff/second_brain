@@ -1,9 +1,9 @@
 # Description
+# Projects
 # Contributors
 
 # ONGOING
 # TODO
 # DONE
-# Issues
-# Blockers
+
 
