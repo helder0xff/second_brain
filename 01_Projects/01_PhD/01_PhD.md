@@ -21,7 +21,7 @@ PhD, en el que estudiaré cómo afectaría el uso de un IMU basado en eventos en
 ![[Pasted image 20260918135911.png]]
 # Links
 - [[01_nSLAM]]
-- [Correo UPM][https://www.upm.es/webmail_alumnos/?_task=mail&_mbox=INBOX]
+- [Correo UPM](https://www.upm.es/webmail_alumnos/?_task=mail&_mbox=INBOX)
 - [Polictécnica Virtual][https://www.upm.es/politecnica_virtual/principal.upm?UPMSSID=dfa258898f465f672ccbf41cbefd881a]
 - [Sede electrónica][https://sede.upm.es/TiProceeding/ciudadano?idLogica=misConvocatorias&entrada=ciudadano&idEntidad=UPM&fkIdioma=es]
 # Resources
