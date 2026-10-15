@@ -1,0 +1,19 @@
+Filtered based methods are those that process event based raw data.
+# High Priority Papers
+1. **Old, but the first mentioned in** [[Survery Paper]] Weikersdorfer, D., & Conradt, J. (2012). Event-based particle filtering for robot self-localization. In 2012 IEEE International Conference on Robotics and Biomimetics (ROBIO), (pp. 866–870). [https://doi.org/10.1109/ROBIO.2012.6491077](https://doi.org/10.1109/ROBIO.2012.6491077)
+
+2. **VIO (line-based) from Chamorro:** Chamorro, W., Solà, J., & Andrade-Cetto, J. (2023). Event-imu fusion strategies for faster-than-imu estimation throughput. In 2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW), (pp. 3976–3983). [https://doi.org/10. 1109/CVPRW59228.2023.00414](https://doi.org/10.1109/CVPRW59228.2023.00414)
+3. **VIO** A. Z. Zhu, N. Atanasov and K. Daniilidis, "Event-Based Visual Inertial Odometry," _2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)_, Honolulu, HI, USA, 2017, pp. 5816-5824, doi: 10.1109/CVPR.2017.616.
+4. **VIO** Mahlknecht, F., Gehrig, D., Nash, J., Rockenbauer, F. M., Morrell, B., Delaune, J., & Scaramuzza, D. (2022). Exploring event camera-based odometry for planetary robots. IEEE Robotics and Automation Letters, 7(4), 8651–8658. [https://doi.org/10.1109/ LRA.2022.3187826](https://doi.org/10.1109/LRA.2022.3187826)
+5. **VIO, Scaramuzza** Mueggler, E., Gallego, G., Rebecq, H., & Scaramuzza, D. (2018). Continuous-time visual-inertial odometry for event cameras. IEEE Transactions on Robotics, 34(6), 1425–1440. [https://doi.org/10. 1109/TRO.2018.2858287](https://doi.org/10.1109/TRO.2018.2858287)
+6. **VIO, Gaussian Regression** Wang, Z., Li, X., Zhang, Y., Zhang, F., & others. (2024). Asyneio:  Asynchronous monocular event-inertial odometry using gaussian process regression. arXiv preprint arXiv:2411.12175
+7. **VIO, Gaussian Regression**
+8. **SNN:** Gehrig, M., Shrestha, S. B., Mouritzen, D., & Scaramuzza, D. (2020). Event-based angular velocity regression with spiking networks. In 2020 IEEE International Conference on Robotics and Automation (ICRA), (pp. 4195–4202). IEEE
+# Others
+- **Previous paper from Chamorro (line-based)** and its line based SLAM: Chamorro, W., Solà, J., & Andrade-Cetto, J. (2022). Event-based line slam in real-time. IEEE Robotics and Automation Letters, 7(3), 8146–8153. [https://doi.org/10.1109/LRA.2022.3187266](https://doi.org/10.1109/LRA.2022.3187266)
+- Chamorro Hernández, W. O., Andrade-Cetto, J., & Solà Ortega, J. (2020). High-speed event camera tracking. In Proceedings of the The 31st British Machine Vision Virtual Conference, (pp. 1–12)
+- **A probabilistic model:** Kim, H., Leutenegger, S., & Davison, A. J. (2016). Real-time 3d reconstruction and 6-dof tracking with an event camera. In European Conference on Computer Vision 
+- **Ultimate SLAM:** Vidal, A. R., Rebecq, H., Horstschaefer, T., & Scaramuzza, D. (2017). Ultimate slam? combining events, images, and imu for robust visual slam in hdr and high-speed scenarios. IEEE Robotics and Automation Letters, 3, 994–1001.
+- **Visual Odometry with event packets:** Censi, A., & Scaramuzza, D. (2014). Low-latency event-based visual odometry. In 2014 IEEE International Conference on Robotics and Automation (ICRA), (pp. 703–710). [https://doi.org/10.1109/ ICRA.2014.6906931](https://doi.org/10.1109/ICRA.2014.6906931)
+- **VIO**,  IDOL: A Framework for IMU-DVS Odometry using Lines [https://doi.org/10.48550/arXiv.2008.05749](https://doi.org/10.48550/arXiv.2008.05749)|
+- **VIO, Gaussian Regression** Li, X., Wang, Z., Liu, Z., Zhang, Y., Zhang, F., Yao, X., & Huang, P. (2024). Asynchronous event-inertial odometry using a unified gaussian process regression framework. In 2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), (pp. 7773–7778) . IEEE
