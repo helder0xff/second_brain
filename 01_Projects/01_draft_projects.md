@@ -7,10 +7,8 @@
 # TODO
 
 # DONE
-# Issues
-# Blockers
 
-# Links
+# Resources
 
 
 

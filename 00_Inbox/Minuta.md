@@ -1,14 +1,20 @@
 # Hot Notes
-- Cerrar lo de los discos SATA
-- [[Salva]], mirar el consumo de potencia de los de infinity.
-# Minuta
-- Enviar a Frank el paper: https://www.sciencedirect.com/science/article/abs/pii/S0263224126004070
+- Enviar lo de la petición para volar en fuerteventura.
+- Rellenar lo de el logaritmo en la metodología de extracción de patrones.
+- No machine instalador, enviar a Jesús.
+- Reservar otra sala para pre-sprint review
+- Organizar power point de Leads para la próxima
+- Actualizar el Roadmap con el mensaje de Ana
+## Reunión Optomechanism
+## Reunión SW/HW
+- EL crop a nivel del sensor sigue enviando la imagen de 1Mpx, aunque solo mantiene activo el ROI
+- Filtro eventos: 
 
+# Last Week
+- Poner Reunión next week Merodio, Zuluaga, Michelle, Miguel
 # Waiting Response
 
-- **Mandar a Jesús, los patrones de calibración y el holder.** (Cruz, que me tiene que dar el holder impreso)
 - **Talk to Enrique, Alejandro an [[Yisus]] meeting conjunta regarding SLAM.** (Esperando a Enrique que vuelva de vacaciones y me responda)
-# Last Week
 
 
 
