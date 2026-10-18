@@ -10,6 +10,7 @@ https://doi.org/10.1007/s11263-026-02845-9
 
 ## Event Camera Working Principle
 - Event Generation Model (EGM): events are triggered when de percentage of the **last stored memory** and the **newest sampled** differ in a percentage that is greater than a given threshold (**contrast sensitivity**).
+![[Pasted image 20261018103910.png]]
 - C is usually set betwee 10 and 15%.
 ## Event Representation
 - **Individividual events:** this are filtered based methods (that seem to be the most computationally demanding

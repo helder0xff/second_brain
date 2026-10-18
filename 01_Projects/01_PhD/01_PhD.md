@@ -21,9 +21,14 @@ PhD, en el que estudiaré cómo afectaría el uso de un IMU basado en eventos en
 ## Side Questions
 - How to correct event based cameras scale factor.
 - Benefits and drawbacks of each event-based data representation.
+- How does the racing drones work? 
+	- Do they optimize its pass through the squares? 
+	- Can we use physical AI for that? (As a previous step for humanoid motion?)
+	- Here comes de NIMU
 # Ideas
 - When mixing frame based and event based cameras for feature based methods (feature extraction), for the sake of computational resources, when the event based robust features decay, use frame based use to top up features.
-- **Acuity**: use event-based camera for ROI detection (an object on x,y), and then point the frame-based camera to the centre of that point.
+- **Acuity (foveation)**: use event-based camera for ROI detection (an object on x,y), and then point the frame-based camera to the centre of that point.
+- For **motion models based methods**, a **model update** depending on the circunstances might help.
 
 # Roadmap
 ![[Pasted image 20260918135911.png]]
